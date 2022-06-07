@@ -1,2 +1,4 @@
-[a,b] =list(map(int, input().split(" ")))
-print(math.floor(b/a))
+from math import floor
+
+[a] =list(map(int, input().split(" ")))
+print(floor(a/4)+1)
