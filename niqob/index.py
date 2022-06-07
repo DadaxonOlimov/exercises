@@ -1,2 +1,3 @@
+import math
 [a,b] =list(map(int, input().split(" ")))
-print(b%a)
+print(math.floor(b/a))

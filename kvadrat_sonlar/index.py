@@ -1,2 +1,2 @@
 [a,b] =list(map(int, input().split(" ")))
-print(a**b)
+print(math.floor(b/a))
