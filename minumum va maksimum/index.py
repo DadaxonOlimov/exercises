@@ -7,10 +7,23 @@
 # 9
 #  ] oralig'iga tegishli.
 
-input=list(map(int, input().split(" ")))
-print(sum(input)-max(input),sum(input)-min(input))
+# input=list(map(int, input().split(" ")))
+# print(sum(input)-max(input),sum(input)-min(input))
 
 
 
 
 
+   
+
+
+
+    
+
+     
+      
+       
+        
+
+         
+        
