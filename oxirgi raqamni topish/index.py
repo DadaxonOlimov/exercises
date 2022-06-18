@@ -7,4 +7,4 @@
 # Chiquvchi ma'lumotlar:
 # Bitta butun son - masala javobini chiqaring.
 # a = input()
-print(int(a[-1]))
+# print(int(a[-1]))
