@@ -9,16 +9,6 @@
 # Kiruvchi ma'lumotlar:
 # 1-qatorda istalgan belgi yoki sonlardan iborat A(1 \leq |A| \leq 1000)A(1≤∣A∣≤1000) satr beriladi .
 
-# a = input()
-# sum_ord = 0
-# for i in a:
-#     sum_ord = sum_ord + ord(i)
-# print(sum_ord)
- 
 
 
-a,b = list(map(int, input().split(' ')))
-if b %a ==0:
-    print('Yes')
-else:
-    print('No')    
+
