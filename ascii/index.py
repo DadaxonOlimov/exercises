@@ -11,3 +11,16 @@ sum_ord = 0
 for i in a:
     sum_ord = sum_ord = ord(i)
 print(sum_ord)
+
+   
+    
+     
+
+
+
+
+
+
+
+
+     
